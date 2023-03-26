@@ -6,7 +6,7 @@
 - The Application implemented with Angular and ngrx-data provides a list of files in COBOL with features
   - to filter the files
   - to render COBOL files
-  - to draw section call for COBOL file 
+  - to draw calls graph for COBOL file 
 <!---
 mkhazanovych/mkhazanovych is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
